@@ -1,0 +1,11 @@
+debug*
+models/*
+datasets
+.vscode
+__pycache__
+scripts/*
+tools/tex-reports
+models
+screenlog/*
+modeling_errors.txt
+batchjob/
