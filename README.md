@@ -7,6 +7,10 @@ Bayesian Neural Networks (BNNs) provide a tool to estimate the uncertainty of a 
 ## Run
 Use `pytorch/run_example.sh` to train and evaluate a single model on MNIST and `jax/run_example.sh` to train and evaluate a single model's uncertainty quality. Each script should be launched from the corresponding folder.
 
+## Structure of VNNs
+
+![VNNs](./VNN_diagram.png)
+
 ## Citation
 
 If you use this work for your research, you can cite it as:
